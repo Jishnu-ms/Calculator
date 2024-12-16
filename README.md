@@ -12,5 +12,5 @@ Calculator Demo https://jishnu-ms.github.io/Calculator/
 * Clone the repository:
 
 Copy code
-* git clone https://github.com/your-username/calculator-app.git
+* git clone https://github.com/Jishnu-ms/Calculator.git
 * Open index.html in your preferred web browser to launch the calculator.
